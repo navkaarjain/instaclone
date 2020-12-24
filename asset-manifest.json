@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/instaclone/static/css/main.2e3b8f39.chunk.css",
+    "main.js": "/instaclone/static/js/main.ef3fc252.chunk.js",
+    "main.js.map": "/instaclone/static/js/main.ef3fc252.chunk.js.map",
+    "runtime-main.js": "/instaclone/static/js/runtime-main.d388d384.js",
+    "runtime-main.js.map": "/instaclone/static/js/runtime-main.d388d384.js.map",
+    "static/css/2.81057f45.chunk.css": "/instaclone/static/css/2.81057f45.chunk.css",
+    "static/js/2.af1da463.chunk.js": "/instaclone/static/js/2.af1da463.chunk.js",
+    "static/js/2.af1da463.chunk.js.map": "/instaclone/static/js/2.af1da463.chunk.js.map",
+    "index.html": "/instaclone/index.html",
+    "static/css/2.81057f45.chunk.css.map": "/instaclone/static/css/2.81057f45.chunk.css.map",
+    "static/css/main.2e3b8f39.chunk.css.map": "/instaclone/static/css/main.2e3b8f39.chunk.css.map",
+    "static/js/2.af1da463.chunk.js.LICENSE.txt": "/instaclone/static/js/2.af1da463.chunk.js.LICENSE.txt",
+    "static/media/ace.822b6420.jpg": "/instaclone/static/media/ace.822b6420.jpg",
+    "static/media/bell.7bd9d18b.png": "/instaclone/static/media/bell.7bd9d18b.png",
+    "static/media/chat.d83d8e0b.png": "/instaclone/static/media/chat.d83d8e0b.png",
+    "static/media/children.dec13a9c.jpg": "/instaclone/static/media/children.dec13a9c.jpg",
+    "static/media/comment.4fd8a1d3.png": "/instaclone/static/media/comment.4fd8a1d3.png",
+    "static/media/dragon.f4d0819d.png": "/instaclone/static/media/dragon.f4d0819d.png",
+    "static/media/football.dfcad029.png": "/instaclone/static/media/football.dfcad029.png",
+    "static/media/heart.2a8d85f2.png": "/instaclone/static/media/heart.2a8d85f2.png",
+    "static/media/heart1.6b4c5d6c.png": "/instaclone/static/media/heart1.6b4c5d6c.png",
+    "static/media/home.39b647a0.png": "/instaclone/static/media/home.39b647a0.png",
+    "static/media/kiss.083eae68.png": "/instaclone/static/media/kiss.083eae68.png",
+    "static/media/like.68a6f6e8.png": "/instaclone/static/media/like.68a6f6e8.png",
+    "static/media/lion.0e5d082f.jpg": "/instaclone/static/media/lion.0e5d082f.jpg",
+    "static/media/man.a51ebf02.png": "/instaclone/static/media/man.a51ebf02.png",
+    "static/media/message.fb3934a8.png": "/instaclone/static/media/message.fb3934a8.png",
+    "static/media/plumber.dfb52282.png": "/instaclone/static/media/plumber.dfb52282.png",
+    "static/media/share.fb3934a8.png": "/instaclone/static/media/share.fb3934a8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d388d384.js",
+    "static/css/2.81057f45.chunk.css",
+    "static/js/2.af1da463.chunk.js",
+    "static/css/main.2e3b8f39.chunk.css",
+    "static/js/main.ef3fc252.chunk.js"
+  ]
+}
